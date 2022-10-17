@@ -1,0 +1,8 @@
+extend index.pug 
+
+block content 
+    // 코드로 rendering시 가져온 변수 값을 직접 지정해서 써야하는듯??
+    - const src = post_link;
+    img(src=src, alt="None")
+    
+    p= title

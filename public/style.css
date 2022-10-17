@@ -1,0 +1,11 @@
+body {
+    padding: 30px;
+}
+
+.web_head {
+    margin-bottom: 20px;
+}
+
+.web_head a{
+    text-decoration: none;
+}
