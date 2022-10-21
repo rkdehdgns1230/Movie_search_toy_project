@@ -1,6 +1,8 @@
 # Movie_search_toy_project
 OMDb API를 이용한 영화 포스터 검색 사이트 만들어보는 토이 프로젝트
 
+template.config.json에 발급받은 key를 넣은 후
+config.json으로 변경해야 동작함
 
 ## 사용한 open API
 
